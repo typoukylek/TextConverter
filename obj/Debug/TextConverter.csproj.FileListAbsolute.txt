@@ -1,0 +1,7 @@
+C:\Users\dev\Desktop\black\TextConverter\bin\Debug\TextConverter.exe.config
+C:\Users\dev\Desktop\black\TextConverter\bin\Debug\TextConverter.exe
+C:\Users\dev\Desktop\black\TextConverter\bin\Debug\TextConverter.pdb
+C:\Users\dev\Desktop\black\TextConverter\obj\Debug\TextConverter.csproj.AssemblyReference.cache
+C:\Users\dev\Desktop\black\TextConverter\obj\Debug\TextConverter.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\black\TextConverter\obj\Debug\TextConverter.exe
+C:\Users\dev\Desktop\black\TextConverter\obj\Debug\TextConverter.pdb
